@@ -1,0 +1,18 @@
+{
+  "active": true,
+  "every": 3,
+  "apps": [
+    {
+      "name": "Cake Maker: Sweet Bakery",
+      "asin": "B0XXXXXXXX",
+      "text": "Bake and decorate yummy cakes!",
+      "icon": ""
+    },
+    {
+      "name": "Pizza Chef: Cooking Fun",
+      "asin": "B0YYYYYYYY",
+      "text": "Cook pizzas for happy customers!",
+      "icon": ""
+    }
+  ]
+}
